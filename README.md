@@ -66,34 +66,6 @@ yarn start
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 📁 Project Structure
-
-```
-portfolio/
-├── public/
-│   ├── icons/
-│   ├── images/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── home/
-│   │   │   ├── Hero.tsx
-│   │   │   ├── Portfolio.tsx
-│   │   │   ├── Skills.tsx
-│   │   │   ├── ServicesSection.tsx
-│   │   │   ├── Testimonials.tsx
-│   │   │   ├── Clients.tsx
-│   │   │   ├── Blog.tsx
-│   │   │   └── Contact.tsx
-│   │   └── Navbar.tsx
-│   ├── context/
-│   │   └── ThemeContext.tsx
-│   ├── styles/
-│   │   └── theme.ts
-│   ├── App.tsx
-│   └── index.tsx
-└── package.json
-```
 
 ## 🎨 Customization
 
@@ -136,4 +108,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under Mandhoj Theeng

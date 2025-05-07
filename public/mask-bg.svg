@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M500 0H0V500H500V0Z" fill="white"/>
+  <path d="M460 40H40V460H460V40Z" fill="black"/>
+  <path d="M0 0L500 0L450 50L50 50L0 0Z" fill="white"/>
+  <path d="M500 500L0 500L50 450L450 450L500 500Z" fill="white"/>
+  <path d="M0 500L0 0L50 50L50 450L0 500Z" fill="white"/>
+  <path d="M500 0L500 500L450 450L450 50L500 0Z" fill="white"/>
+</svg> 
