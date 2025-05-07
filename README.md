@@ -106,6 +106,8 @@ Each section can be accessed through the navigation menu or by scrolling.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
 
+<<<<<<< HEAD
 This project is licensed under Mandhoj Theeng
+=======
+>>>>>>> 34918a82bc7e73c3f19e1b34c1c06493ced49042
